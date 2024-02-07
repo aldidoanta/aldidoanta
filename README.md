@@ -28,4 +28,4 @@ I have interests in topics related to software architecture, technical leadershi
 <a href="https://go.dev/"> <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Go" height="70"/>
 <a href="https://grpc.io/"> <img src="https://seeklogo.com/images/G/grpc-logo-561C1563B1-seeklogo.com.png" alt="gRPC" height="50"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldidoanta&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldidoanta&layout=compact&hide=javascript,html,css,scss&langs_count=8&custom_title=Languages%2C%20Excluding%20HTML%2FCSS)
