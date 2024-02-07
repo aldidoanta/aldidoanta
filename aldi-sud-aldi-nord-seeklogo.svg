@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<svg width="999.9999999999999" height="700" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" xml:space="preserve">
+ <desc>Created with Fabric.js 5.2.4</desc>
+ <defs>
+  <linearGradient gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="objectBoundingBox" id="SVGID_a_3" x1="0.51" x2="0.51" y1="1.01" y2="0.01">
+   <stop offset="0%" stop-color="rgb(20,130,175)"/>
+   <stop offset="2%" stop-color="rgb(55,152,191)"/>
+   <stop offset="5%" stop-color="rgb(110,185,216)"/>
+   <stop offset="8%" stop-color="rgb(149,209,234)"/>
+   <stop offset="11%" stop-color="rgb(174,224,245)"/>
+   <stop offset="12%" stop-color="rgb(183,229,249)"/>
+   <stop offset="20%" stop-color="rgb(151,218,246)"/>
+   <stop offset="33%" stop-color="rgb(103,202,242)"/>
+   <stop offset="40%" stop-color="rgb(85,195,240)"/>
+   <stop offset="60%" stop-color="rgb(85,195,240)"/>
+   <stop offset="67%" stop-color="rgb(103,202,242)"/>
+   <stop offset="80%" stop-color="rgb(151,218,246)"/>
+   <stop offset="88%" stop-color="rgb(183,229,249)"/>
+   <stop offset="89%" stop-color="rgb(174,224,245)"/>
+   <stop offset="92%" stop-color="rgb(149,209,234)"/>
+   <stop offset="95%" stop-color="rgb(110,185,216)"/>
+   <stop offset="98%" stop-color="rgb(55,152,191)"/>
+   <stop offset="100%" stop-color="rgb(20,130,175)"/>
+  </linearGradient>
+  <linearGradient gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="objectBoundingBox" id="SVGID_b_4" x1="0.51" x2="0.51" y1="1.01" y2="0.01">
+   <stop offset="0%" stop-color="rgb(20,130,175)"/>
+   <stop offset="2%" stop-color="rgb(55,152,191)"/>
+   <stop offset="5%" stop-color="rgb(110,185,216)"/>
+   <stop offset="8%" stop-color="rgb(149,209,234)"/>
+   <stop offset="11%" stop-color="rgb(174,224,245)"/>
+   <stop offset="12%" stop-color="rgb(183,229,249)"/>
+   <stop offset="20%" stop-color="rgb(151,218,246)"/>
+   <stop offset="33%" stop-color="rgb(103,202,242)"/>
+   <stop offset="40%" stop-color="rgb(85,195,240)"/>
+   <stop offset="60%" stop-color="rgb(85,195,240)"/>
+   <stop offset="67%" stop-color="rgb(103,202,242)"/>
+   <stop offset="80%" stop-color="rgb(151,218,246)"/>
+   <stop offset="88%" stop-color="rgb(183,229,249)"/>
+   <stop offset="89%" stop-color="rgb(174,224,245)"/>
+   <stop offset="92%" stop-color="rgb(149,209,234)"/>
+   <stop offset="95%" stop-color="rgb(110,185,216)"/>
+   <stop offset="98%" stop-color="rgb(55,152,191)"/>
+   <stop offset="100%" stop-color="rgb(20,130,175)"/>
+  </linearGradient>
+  <linearGradient gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="objectBoundingBox" id="SVGID_c_5" x1="0.51" x2="0.51" y1="1.01" y2="0.01">
+   <stop offset="0%" stop-color="rgb(20,130,175)"/>
+   <stop offset="2%" stop-color="rgb(55,152,191)"/>
+   <stop offset="5%" stop-color="rgb(110,185,216)"/>
+   <stop offset="8%" stop-color="rgb(149,209,234)"/>
+   <stop offset="11%" stop-color="rgb(174,224,245)"/>
+   <stop offset="12%" stop-color="rgb(183,229,249)"/>
+   <stop offset="20%" stop-color="rgb(151,218,246)"/>
+   <stop offset="33%" stop-color="rgb(103,202,242)"/>
+   <stop offset="40%" stop-color="rgb(85,195,240)"/>
+   <stop offset="60%" stop-color="rgb(85,195,240)"/>
+   <stop offset="67%" stop-color="rgb(103,202,242)"/>
+   <stop offset="80%" stop-color="rgb(151,218,246)"/>
+   <stop offset="88%" stop-color="rgb(183,229,249)"/>
+   <stop offset="89%" stop-color="rgb(174,224,245)"/>
+   <stop offset="92%" stop-color="rgb(149,209,234)"/>
+   <stop offset="95%" stop-color="rgb(110,185,216)"/>
+   <stop offset="98%" stop-color="rgb(55,152,191)"/>
+   <stop offset="100%" stop-color="rgb(20,130,175)"/>
+  </linearGradient>
+  <linearGradient gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="objectBoundingBox" id="SVGID_d_6" x1="0.05" x2="0.87" y1="0.98" y2="0.34">
+   <stop offset="20%" stop-color="rgb(85,195,240)"/>
+   <stop offset="32%" stop-color="rgb(103,202,242)"/>
+   <stop offset="55.00000000000001%" stop-color="rgb(151,218,246)"/>
+   <stop offset="69%" stop-color="rgb(183,229,249)"/>
+   <stop offset="73%" stop-color="rgb(174,224,245)"/>
+   <stop offset="79%" stop-color="rgb(149,209,234)"/>
+   <stop offset="86%" stop-color="rgb(110,185,216)"/>
+   <stop offset="95%" stop-color="rgb(55,152,191)"/>
+   <stop offset="100%" stop-color="rgb(20,130,175)"/>
+  </linearGradient>
+  <linearGradient gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="objectBoundingBox" id="SVGID_e_7" x1="0.05" x2="0.88" y1="1.14" y2="0.19">
+   <stop offset="30%" stop-color="rgb(85,195,240)"/>
+   <stop offset="41%" stop-color="rgb(103,202,242)"/>
+   <stop offset="63%" stop-color="rgb(151,218,246)"/>
+   <stop offset="76%" stop-color="rgb(183,229,249)"/>
+   <stop offset="79%" stop-color="rgb(174,224,245)"/>
+   <stop offset="83%" stop-color="rgb(149,209,234)"/>
+   <stop offset="89%" stop-color="rgb(110,185,216)"/>
+   <stop offset="96%" stop-color="rgb(55,152,191)"/>
+   <stop offset="100%" stop-color="rgb(20,130,175)"/>
+  </linearGradient>
+  <linearGradient gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="objectBoundingBox" id="SVGID_f_8" x1="0.06" x2="0.89" y1="1.3" y2="0.04">
+   <stop offset="0%" stop-color="rgb(115,205,243)"/>
+   <stop offset="12%" stop-color="rgb(98,200,241)"/>
+   <stop offset="24%" stop-color="rgb(88,196,240)"/>
+   <stop offset="40%" stop-color="rgb(85,195,240)"/>
+   <stop offset="50%" stop-color="rgb(103,202,242)"/>
+   <stop offset="69%" stop-color="rgb(151,218,246)"/>
+   <stop offset="81%" stop-color="rgb(183,229,249)"/>
+   <stop offset="83%" stop-color="rgb(174,224,245)"/>
+   <stop offset="87%" stop-color="rgb(149,209,234)"/>
+   <stop offset="92%" stop-color="rgb(110,185,216)"/>
+   <stop offset="97%" stop-color="rgb(55,152,191)"/>
+   <stop offset="100%" stop-color="rgb(20,130,175)"/>
+  </linearGradient>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="7c4108cf-cb27-459f-a0a6-84f040750bf0" transform="matrix(1 0 0 1 540 540)"/>
+  <g id="svg_2" transform="matrix(11.1268, 0, 0, 11.9907, 1755.52, 2911.84)">
+   <g id="svg_3">
+    <g id="path8943" transform="matrix(1, 0, 0, 1, -21.95, 0)">
+     <path d="m-64.45,-161.19c0,0.87 -0.74,1.6 -1.62,1.6l-37.16,0c-0.88,0 -1.62,-0.73 -1.62,-1.6l0,-44.7c0,-0.87 0.74,-1.6 1.62,-1.6l37.16,0c0.88,0 1.62,0.73 1.62,1.6l0,44.7z" fill="rgb(255,200,0)" fill-rule="nonzero" id="svg_4" stroke-dashoffset="0" stroke-miterlimit="4" transform="translate(-28.03, -29.79)"/>
+    </g>
+    <g id="path8945" transform="matrix(1, 0, 0, 1, -21.93, 0)">
+     <path d="m-66.41,-162.55c0,0.58 -0.49,1.07 -1.08,1.07l-34.32,0c-0.59,0 -1.08,-0.48 -1.08,-1.07l0,-41.99c0,-0.58 0.49,-1.07 1.08,-1.07l34.37,0c0.59,0 1.08,0.48 1.08,1.07l-0.05,41.99z" fill="rgb(255,120,0)" fill-rule="nonzero" id="svg_5" stroke-dashoffset="0" stroke-miterlimit="4" transform="translate(-28.05, -29.79)"/>
+    </g>
+    <g id="path8947" transform="matrix(1, 0, 0, 1, -21.95, -0.04)">
+     <path d="m-67.83,-163.67c0,0.44 -0.34,0.77 -0.78,0.77l-32.07,0c-0.44,0 -0.78,-0.34 -0.78,-0.77l0,-39.81c0,-0.44 0.34,-0.77 0.78,-0.77l32.07,0c0.44,0 0.78,0.34 0.78,0.77l0,39.81z" fill="rgb(215,0,0)" fill-rule="nonzero" id="svg_6" stroke-dashoffset="0" stroke-miterlimit="4" transform="translate(-28.04, -29.75)"/>
+    </g>
+    <g id="path8949" transform="matrix(1, 0, 0, 1, -21.93, -0.03)">
+     <path d="m-68.96,-164.59c0,0.34 -0.29,0.58 -0.59,0.58l-30.15,0c-0.34,0 -0.59,-0.29 -0.59,-0.58l0,-37.97c0,-0.34 0.29,-0.58 0.59,-0.58l30.15,0c0.34,0 0.59,0.29 0.59,0.58l0,37.97z" fill="rgb(0,0,95)" fill-rule="nonzero" id="svg_7" stroke-dashoffset="0" stroke-miterlimit="4" transform="translate(-28.05, -29.76)"/>
+    </g>
+    <g id="path8951" transform="matrix(1, 0, 0, 1, -22.12, 10.19)">
+     <path d="m-84.79,-166.91c-1.13,0 -1.32,-0.48 -1.32,-1.65l0,-1.84l0.93,0l0,2.08c0,0.53 0.05,0.77 0.44,0.77c0.34,0 0.44,-0.19 0.44,-0.77l0,-2.08l0.88,0l0,1.84c0,1.26 -0.34,1.65 -1.37,1.65zm0.64,-3.83c-0.25,0 -0.44,-0.19 -0.44,-0.44c0,-0.24 0.2,-0.48 0.44,-0.48c0.25,0 0.44,0.24 0.44,0.48c0,0.24 -0.2,0.44 -0.44,0.44zm-1.27,0c-0.25,0 -0.44,-0.19 -0.44,-0.44c0,-0.24 0.2,-0.48 0.44,-0.48c0.25,0 0.44,0.24 0.44,0.48c0,0.24 -0.2,0.44 -0.44,0.44zm2.65,3.73l0,-3.39l0.98,0c1.23,0 1.77,0.24 1.77,1.7c0,1.45 -0.54,1.7 -1.77,1.7l-0.98,0l0,-0.01zm1.13,-0.58c0.49,0 0.69,-0.29 0.69,-1.11c0,-0.77 -0.2,-1.11 -0.69,-1.11l-0.2,0l0,2.23l0.2,0l0,-0.01zm-6.37,0.68c-0.54,0 -0.93,-0.1 -1.13,-0.15l0.15,-0.63c0.34,0.1 0.59,0.15 0.78,0.15c0.25,0 0.54,-0.05 0.54,-0.34c0,-0.19 -0.25,-0.34 -0.49,-0.48l-0.05,0c-0.39,-0.24 -0.83,-0.48 -0.83,-1.02c0,-0.63 0.44,-0.97 1.27,-0.97c0.44,0 0.69,0.05 1.03,0.15l-0.15,0.58c-0.1,-0.05 -0.39,-0.15 -0.74,-0.15c-0.29,0 -0.49,0.1 -0.49,0.34c0,0.19 0.25,0.34 0.54,0.48l0.05,0c0.39,0.24 0.88,0.48 0.88,1.02c0,0.63 -0.44,1.02 -1.37,1.02l0.01,0zm-3.97,-5.52c-0.1,-0.39 -0.25,-1.07 -0.34,-1.36l-2.7,0c-0.1,0.29 -0.25,0.97 -0.34,1.36l-2.4,0c1.03,-3.2 1.47,-4.5 2.65,-7.36l2.94,0c1.13,2.81 1.62,4.17 2.65,7.36l-2.45,0l-0.01,0zm-2.7,-2.91l2.01,0c-0.29,-0.97 -0.83,-2.62 -0.98,-3.1c-0.2,0.44 -0.74,2.08 -1.03,3.1zm7.75,2.91c-1.27,0 -1.96,-0.73 -1.96,-1.99l0,-5.38l2.26,0l0,4.94c0,0.63 0.2,0.77 0.83,0.77l2.21,0l0.34,1.65l-3.68,0l0,0.01zm12.8,-7.36l2.26,0l0,7.36l-2.26,0l0,-7.36zm-8.24,7.36l0,-7.36l3.09,0c2.3,0 3.87,0.92 3.87,3.63c0,2.62 -1.27,3.73 -3.78,3.73l-3.19,0l0.01,0zm2.26,-1.6l0.64,0c1.37,0 1.91,-0.63 1.91,-2.13c0,-1.45 -0.69,-2.03 -2.01,-2.03l-0.54,0l0,4.17l0,-0.01z" fill="rgb(255,255,255)" fill-rule="nonzero" id="svg_8" stroke-dashoffset="0" stroke-miterlimit="4" transform="translate(-27.86, -39.98)"/>
+    </g>
+    <g id="path8990" transform="matrix(1, 0, 0, 1, -26.07, -7.77)">
+     <path d="m-85.53,-200.52c-1.37,0 -1.96,0.97 -2.5,2.47l-4.71,13.85c-0.39,1.21 -0.93,1.89 -1.81,1.99l0,0.1l2.45,0c1.37,0 1.96,-0.97 2.5,-2.47l4.76,-13.8c0.39,-1.21 0.98,-1.89 1.86,-1.99l0,-0.1c-0.44,-0.05 -2.45,-0.05 -2.55,-0.05z" fill="url(#SVGID_a_3)" fill-rule="nonzero" id="svg_9" stroke-dashoffset="0" stroke-miterlimit="4" transform="translate(-23.91, -22.02)"/>
+    </g>
+    <g id="path9029" transform="matrix(1, 0, 0, 1, -21.66, -7.8)">
+     <path d="m-81.07,-200.52c-1.37,0 -1.96,0.97 -2.5,2.47l-4.76,13.8c-0.39,1.21 -0.93,1.89 -1.81,1.99l0,0.1l2.45,0c1.37,0 1.96,-0.97 2.5,-2.47l4.76,-13.8c0.39,-1.21 0.98,-1.89 1.86,-1.99l0,-0.1l-2.5,0z" fill="url(#SVGID_b_4)" fill-rule="nonzero" id="svg_10" stroke-dashoffset="0" stroke-miterlimit="4" transform="translate(-28.33, -21.99)"/>
+    </g>
+    <g id="path9068" transform="matrix(1, 0, 0, 1, -29.99, -7.73)">
+     <path d="m-89.99,-200.47c-1.37,0 -1.96,0.97 -2.5,2.47l-5.44,15.93l1.37,0c1.37,0 1.96,-0.97 2.5,-2.47l4.76,-13.85c0.39,-1.21 0.98,-1.89 1.86,-1.99l0,-0.1l-2.55,0l0,0.01z" fill="url(#SVGID_c_5)" fill-rule="nonzero" id="svg_11" stroke-dashoffset="0" stroke-miterlimit="4" transform="translate(-20, -22.05)"/>
+    </g>
+    <g id="path9089" transform="matrix(1, 0, 0, 1, -15.3, -9.95)">
+     <path d="m-75.77,-194.08c-0.54,-1.07 -1.08,-1.16 -2.06,-1.16l-2.5,0l-0.98,2.86l4.85,0c0.69,0 1.27,0.1 1.67,0.63l0.1,0c0,-0.05 -0.98,-2.03 -1.08,-2.32l0,-0.01z" fill="url(#SVGID_d_6)" fill-rule="nonzero" id="svg_12" stroke-dashoffset="0" stroke-miterlimit="4" transform="translate(-34.68, -19.84)"/>
+    </g>
+    <g id="path9110" transform="matrix(1, 0, 0, 1, -15.11, -5.83)">
+     <path d="m-74.01,-189.96c-0.49,-1.02 -1.08,-1.16 -2.06,-1.16l-5.64,0l-0.98,2.86l7.99,0c0.74,0 1.27,0.1 1.67,0.63l0.1,0c0,0 -0.98,-2.08 -1.08,-2.32l0,-0.01z" fill="url(#SVGID_e_7)" fill-rule="nonzero" id="svg_13" stroke-dashoffset="0" stroke-miterlimit="4" transform="translate(-34.87, -23.95)"/>
+    </g>
+    <g id="path9137" transform="matrix(1, 0, 0, 1, -15.01, -1.73)">
+     <path d="m-72.19,-185.7c-0.49,-1.11 -1.13,-1.31 -2.11,-1.31l-8.83,0l-0.83,2.37c-0.05,0.19 -0.1,0.34 -0.2,0.48l11.18,0c0.64,0 1.18,0.1 1.62,0.63l0.1,0c0,0.05 -0.88,-2.03 -0.93,-2.18l0,0.01z" fill="url(#SVGID_f_8)" fill-rule="nonzero" id="svg_14" stroke-dashoffset="0" stroke-miterlimit="4" transform="translate(-34.97, -28.06)"/>
+    </g>
+    <g id="svg_115" transform="matrix(0.27, 0, 0, 0.29, 21.23, -0.01)">
+     <rect fill="rgb(255,255,255)" fill-rule="nonzero" height="164.26" id="svg_15" stroke-dashoffset="0" stroke-miterlimit="4" width="157" x="-495.82" y="-817.76"/>
+    </g>
+    <g id="svg_113" transform="matrix(0.27, 0, 0, 0.29, 21.23, -0.01)">
+     <rect fill="none" fill-rule="nonzero" height="164.26" id="svg_16" stroke-dashoffset="0" stroke-miterlimit="4" width="157" x="-495.82" y="-817.76"/>
+    </g>
+    <g id="svg_112" transform="matrix(0.27, 0, 0, 0.29, 21.23, -0.01)">
+     <path d="m-263.34,-574.85l0,-158.23l-150.96,0l0,158.23l150.96,0zm-6.04,-6.03l-138.88,0l0,-146.17l138.88,0l0,146.17z" fill="rgb(197,23,24)" fill-rule="nonzero" id="svg_17" stroke-dashoffset="0" stroke-miterlimit="4" transform="translate(-78.5, -81.67)"/>
+    </g>
+    <g id="svg_111" transform="matrix(0.27, 0, 0, 0.29, 21.23, 14.38)">
+     <path d="m-400.71,-620.05l123.79,0l0,31.64l-123.79,0l0,-31.64z" fill="rgb(32,43,120)" fill-rule="nonzero" id="svg_18" stroke-dashoffset="0" stroke-miterlimit="4" transform="translate(-78.5, -131.4)"/>
+    </g>
+    <g id="svg_110" transform="matrix(0.27, 0, 0, 0.29, 21.23, 14.38)">
+     <path d="m-288.24,-592.17l0,-24.12l-10.86,0l0,24.12l10.86,0zm-13.3,-12.06c0.02,-6.64 -5.35,-12.04 -11.99,-12.06l-16.05,0l0,24.12l16.05,0c3.19,-0.01 6.25,-1.28 8.49,-3.55c2.25,-2.26 3.51,-5.32 3.5,-8.51zm-9.98,0c0.09,2.8 -2.1,5.14 -4.9,5.24l-2.33,0l0,-10.48l2.33,0c2.8,0.1 4.99,2.44 4.9,5.24zm-40.65,12.06l20.5,0l0,-6.97l-9.48,0l0,-17.15l-11.02,0l0,24.12zm-12.38,0l10.95,0l-12.37,-24.12l-11.05,0l-12.37,24.12l10.95,0l1.16,-2.54l11.57,0l1.16,2.54zm-4.41,-8.88l-5.07,0l2.47,-5.36l2.6,5.36z" fill="rgb(255,255,255)" fill-rule="nonzero" id="svg_19" stroke-dashoffset="0" stroke-miterlimit="4" transform="translate(-78.5, -131.4)"/>
+    </g>
+    <g id="svg_109" transform="matrix(0.27, 0, 0, 0.29, 21.23, -5.02)">
+     <path d="m-296.89,-623.06c1.69,-3.01 2.55,-6.42 2.48,-9.87c-0.07,-4.05 -1.75,-6.66 -4.05,-10.1l-33.54,-50.27l5.46,-8.22l37.33,55.73c3.08,4.58 4.83,8.01 4.96,13.12c-0.04,3.33 -0.8,6.61 -2.24,9.61l-10.4,0zm-42.47,-96.45l-49.08,73.72c-3.07,4.58 -4.83,8.01 -4.95,13.12c0.04,3.33 0.8,6.61 2.23,9.61l10.41,0c-1.7,-3.01 -2.56,-6.42 -2.49,-9.87c0.08,-4.05 1.76,-6.66 4.05,-10.1l50.72,-76.48l-10.89,0zm-30.65,78.38l59.35,0l-4.06,-6.07l-51.3,0l-2.37,3.55c-0.54,0.81 -1.1,1.68 -1.62,2.52z" fill="rgb(0,182,237)" fill-rule="nonzero" id="svg_20" stroke-dashoffset="0" stroke-miterlimit="4" transform="translate(-78.5, -64.34)"/>
+    </g>
+    <g id="svg_108" transform="matrix(0.27, 0, 0, 0.29, 21.23, -5.02)">
+     <path d="m-284.94,-623.06c0.27,-0.6 0.41,-0.95 0.62,-1.52c1.08,-2.57 1.66,-5.32 1.71,-8.11c-0.13,-5.36 -1.99,-8.95 -5.1,-13.57l-37.94,-56.58l4.39,-6.56l41.28,61.8c3.62,5.43 5.32,8.59 5.32,13.63c0,5.74 -1.54,8.28 -2.7,10.91l-7.58,0zm-23.17,0l9.45,0c1.77,-2.98 2.67,-6.39 2.61,-9.86c-0.07,-3.77 -1.61,-6.18 -3.91,-9.63l-32.98,-49.38l-4.28,6.41l27.97,41.87c2.49,3.73 4.57,7.08 4.75,10.49c0.2,3.71 -1.1,7.35 -3.61,10.1zm-41.87,-96.45l-47.68,71.9c-3.62,5.43 -5.32,8.59 -5.32,13.63c0,5.75 1.53,8.28 2.7,10.91l7.61,0c-0.2,-0.45 -0.41,-0.96 -0.63,-1.52c-1.02,-2.58 -1.54,-5.33 -1.53,-8.1c0.12,-5.36 1.99,-8.95 5.1,-13.58l48.75,-73.23l-9,-0.01zm23.13,0l-51.03,76.96c-2.3,3.45 -3.84,5.86 -3.91,9.63c-0.06,3.47 0.84,6.88 2.61,9.86l9.65,0c-2.51,-2.75 -3.81,-6.39 -3.61,-10.1c0.05,-0.9 0.2,-1.79 0.44,-2.66l64.94,0c-0.43,-1.38 -1.09,-2.68 -1.96,-3.84l-61.17,0c0.71,-1.23 1.63,-2.69 2.5,-3.99l3.35,-5.01l49.34,0l-2.7,-4.05l-43.93,0l44.26,-66.8l-8.78,0z" fill="rgb(32,43,120)" fill-rule="nonzero" id="svg_21" stroke-dashoffset="0" stroke-miterlimit="4" transform="translate(-78.5, -64.34)"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
