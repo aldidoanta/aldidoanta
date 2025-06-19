@@ -11,7 +11,7 @@ I have interests in topics related to software architecture, technical leadershi
 
 
 ### Articles I wrote and slide decks from my previous talks
-<a href="https://medium.com/@aldidoanta" target="blank"><img align="center" src="https://scontent.fcgk29-1.fna.fbcdn.net/v/t39.30808-6/456422954_906117994889259_5982932262518142188_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFDvHCGnYdullpHpNEhhq1xd0jEcKb1Jml3SMRwpvUmaaFq8ZYbrggAhStkYcc3svs&_nc_ohc=WrLGnlicWSIQ7kNvwEhGEul&_nc_oc=AdkIbxE1vqtuTrql_t-2f2_Vrc9u6v9wSHLU10O94j7aNKbc0qy0AnOVOyGaKhi2-g8&_nc_zt=23&_nc_ht=scontent.fcgk29-1.fna&_nc_gid=ec8piiuM-DRT0LVaCliqtg&oh=00_AfIqjR5yIIogN5w6Gi0Gnrko9v-R-LyGHs0RRGW-0estVA&oe=68280200" alt="aldidoanta on Medium" height="50" /></a>
+<a href="https://medium.com/@aldidoanta" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Medium_%28website%29_logo_2024.svg/1920px-Medium_%28website%29_logo_2024.svg.png" alt="aldidoanta on Medium" height="40" /></a>
 <a href="https://speakerdeck.com/aldidoanta" target="blank"><img align="center" src="https://www.svgrepo.com/show/354375/speakerdeck.svg" alt="aldidoanta on Speaker Deck" height="50" width="50" /></a>
 
 ## Technologies
@@ -27,4 +27,4 @@ I have interests in topics related to software architecture, technical leadershi
 ## Currently Learning
 <a href="https://neo4j.com/"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/New4j.png" alt="Neoo4j" height="70"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldidoanta&layout=compact&hide=javascript,html,css,scss&langs_count=8&custom_title=Languages%2C%20Excluding%20HTML%2FCSS)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldidoanta&layout=compact&hide=html,css,scss&langs_count=8&custom_title=Languages%2C%20Excluding%20HTML%2FCSS)
