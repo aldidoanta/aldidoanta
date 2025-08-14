@@ -2,7 +2,7 @@
 > No, I'm not related to <a href="https://aldi.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/aldidoanta/aldidoanta/main/aldi-sud-aldi-nord-seeklogo.svg" alt="ALDI Supermarket" height="70" width="100" /></a>
 <br />
 
-I'm a software engineer specialized in backend and DevOps technologies.
+I'm a software engineer specialized in backend and (basic) DevOps technologies.
 
 I have interests in topics related to software architecture, technical leadership, and servant leadership.
 
@@ -26,5 +26,3 @@ I have interests in topics related to software architecture, technical leadershi
 
 ## Currently Learning
 <a href="https://neo4j.com/"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/New4j.png" alt="Neoo4j" height="70"/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldidoanta&layout=compact&hide=html,css,scss&langs_count=8&custom_title=Languages%2C%20Excluding%20HTML%2FCSS)
