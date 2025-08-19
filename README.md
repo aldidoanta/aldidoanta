@@ -25,4 +25,5 @@ I have interests in topics related to software architecture, technical leadershi
 <a href="https://www.mendix.com/"> <img src="https://images.squarespace-cdn.com/content/v1/5dfa2c39017ba35b991218b8/bdaa1bb4-8901-4487-b54f-6d47bffa5788/Mendix-Brandmark-RGB-Outline-MX+Small-Blue-ExtraLarge.png" alt="Mendix" height="50"/>
 
 ## Currently Learning
+<a href="https://go.dev/"> <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Go" height="70"/>
 <a href="https://neo4j.com/"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/New4j.png" alt="Neoo4j" height="70"/>
